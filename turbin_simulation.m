@@ -1,7 +1,6 @@
 clc,clear all, close all
 
 
-
 % Grafik
     
     [bild, ~ , bild_alpha] = imread('vindturbin.png');
